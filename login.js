@@ -72,6 +72,7 @@ function Login(){
   function clearForm(){
     setEmail('');
     setPassword('');
+    setEnable('');
     setShow(true);
   }
 
