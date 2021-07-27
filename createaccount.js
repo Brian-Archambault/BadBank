@@ -63,6 +63,7 @@ function CreateAccount(){
     setName('');
     setEmail('');
     setPassword('');
+    setEnable('');
     setShow(true);
   }
 
