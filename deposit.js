@@ -82,6 +82,7 @@ function Deposit(){
 
   function clearForm(){
     setDeposit('0');
+    setEnable('');
     setShow(true);
   }
 
