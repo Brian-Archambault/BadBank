@@ -88,6 +88,7 @@ function Withdraw(){
 
   function clearForm(){
     setDeposit('0');
+    setEnable('');
     setShow(true);
   }
 
